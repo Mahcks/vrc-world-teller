@@ -6,7 +6,7 @@ This project uses the VR Chat API which requires your VR Chat login and an authe
 
 *This guide is written assuming you have node.js and npm installed. Haven't done that yet? Check out this guide to get started: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm*
 
-1. Download the latest release and extract the folder to a destination.
+1. Download the [latest release](https://github.com/Mahcks/vrc-world-teller/releases/latest) and extract the folder to a destination.
 2. Open a command prompt there and type in `npm install` to install dependencies.
 3. Rename the `example.env` file to `.env`.
 4. Open the `.env` file with the text editor of your choice.
