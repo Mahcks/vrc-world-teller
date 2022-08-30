@@ -1,2 +1,3 @@
 # vrc-world-teller
-Find out what the name of the world a user is in.
+
+Gets the world of a user using the VR Chat API. After the API fetches the world information, it saves it to `world.txt` to be displayed on OBS.

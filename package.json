@@ -1,0 +1,24 @@
+{
+  "name": "vrc-world-teller",
+  "version": "1.0.0",
+  "description": "Gets the world of a user using the VR Chat API. After the API fetches the world information, it saves it to `world.txt` to be displayed on OBS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahcks/vrc-world-teller.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahcks/vrc-world-teller/issues"
+  },
+  "homepage": "https://github.com/Mahcks/vrc-world-teller#readme",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "vrchat": "^1.7.2"
+  }
+}
